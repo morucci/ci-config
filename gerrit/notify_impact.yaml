@@ -1,0 +1,5 @@
+author_map:
+    fabien.boucher@enovance.com: fbo
+
+subscriber_map:
+    fbo: ['fbo']
